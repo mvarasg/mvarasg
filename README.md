@@ -1,9 +1,7 @@
-# mvarasg
-
-# Hi there 👋
+# Hola a Todos👋
 
 <div align="center">
-    <img src='chiloe.jpg' style="border-radius: 12px" width="600" height="300"> 
+    <img src='chiloe.jpg' style="border-radius: 12px" width="700" height="300">
     <em>Una vista de un atardecer en Chiloé, Chile.</em>
 </div>
 
@@ -47,6 +45,10 @@ Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 Data Science and Machine Learning Frameworks
 
@@ -65,4 +67,5 @@ Others
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+
 
