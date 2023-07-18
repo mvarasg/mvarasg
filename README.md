@@ -2,7 +2,6 @@
 
 <div align="center">
     <img src='chiloe.jpg' style="border-radius: 12px" width="700" height="300">
-    <em>Una vista de un atardecer en Chiloé, Chile.</em>
 </div>
 
 <br>
