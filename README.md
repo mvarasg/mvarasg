@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Hola, mi nombre es Maximiliano Varas González (Max) y actualmente estoy en 7mo año de Ingeniería Civil Eléctrica, en el área de Energía. Me interesa el área de ciencia de datos por su importancia a fututo y por la posible aplicación a procesos del mundo eléctrico.
+Hola, mi nombre es Maximiliano Varas González (Max) y estudie Ingeniería Civil Eléctrica, en el área de Energía y Inteligencia Computacional. Me interesa el área de ciencia de datos por su importancia a fututo y por la posible aplicación a procesos del mundo eléctrico.
 
 </div>
 
