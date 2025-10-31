@@ -21,7 +21,7 @@ Hola, mi nombre es Maximiliano Varas González (Max) y estudié Ingeniería Civi
     <a href="mailto:maximilianovarasg@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="CV_es.pdf">
+    <a href="ProfessionalCV2__mvarasg_20251018.pdf">
         <img src="https://img.shields.io/badge/Resume (in spanish)-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
